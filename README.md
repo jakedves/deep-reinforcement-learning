@@ -8,29 +8,29 @@ This project involved training a deep reinforcement learning agent using modern 
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/jakedves/deep-rl-mario/assets/75232368/2f2c412b-5793-46c5-b55b-550b360b3a69">
-          <img src="https://github.com/jakedves/deep-rl-mario/assets/75232368/2f2c412b-5793-46c5-b55b-550b360b3a69" alt="Full Game Performance">
+        <a href="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/full.gif">
+          <img src="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/full.gif" alt="Full Game Performance">
         </a>
         <br>
         Full Game Performance
       </td>
       <td align="center">
-        <a href="https://github.com/jakedves/deep-rl-mario/assets/75232368/ba4e4e6a-6e2e-4251-9281-432b35a72c8c">
-          <img src="https://github.com/jakedves/deep-rl-mario/assets/75232368/ba4e4e6a-6e2e-4251-9281-432b35a72c8c" alt="Multi-level Training 1">
+        <a href="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/multi-1.gif">
+          <img src="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/multi-1.gif" alt="Multi-level Training 1">
         </a>
         <br>
         Multi-level Training 1
       </td>
       <td align="center">
-        <a href="https://github.com/jakedves/deep-rl-mario/assets/75232368/bc9b587b-7c60-4320-9c33-3f4806425023">
-          <img src="https://github.com/jakedves/deep-rl-mario/assets/75232368/bc9b587b-7c60-4320-9c33-3f4806425023" alt="Multi-level Training 2">
+        <a href="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/multi-2.gif">
+          <img src="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/multi-2.gif" alt="Multi-level Training 2">
         </a>
         <br>
         Multi-level Training 2
       </td>
       <td align="center">
-        <a href="https://github.com/jakedves/deep-rl-mario/assets/75232368/7503b2cc-d617-4280-95a5-e1fef78cd63d">
-          <img src="https://github.com/jakedves/deep-rl-mario/assets/75232368/7503b2cc-d617-4280-95a5-e1fef78cd63d" alt="Multi-level Training 3">
+        <a href="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/multi-3.gif">
+          <img src="https://github.com/jakedves/deep-reinforcement-learning/blob/main/assets/multi-3.gif" alt="Multi-level Training 3">
         </a>
         <br>
         Multi-level Training 3
